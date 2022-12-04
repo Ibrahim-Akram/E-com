@@ -1,0 +1,20 @@
+.heading img{
+    width: 40px;
+    height: 40px;
+}
+.newarivals h4{
+    font-weight: 400;
+}
+.newarivals span{
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+}
+.newarivals .box .img{
+    width: 100%;
+    height: 100%;
+}
+.newarivals .box img{
+    width: auto;
+    height: auto;
+}
